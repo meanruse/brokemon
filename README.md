@@ -1,4 +1,4 @@
-# GBA Games Page:
+# Based on:
 
 https://jsemu3.github.io/gba
 
